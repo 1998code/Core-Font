@@ -1,2 +1,2 @@
-# Core-Font
+# Core Font
 Open Source Font Project.
