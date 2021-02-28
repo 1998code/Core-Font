@@ -1,5 +1,9 @@
 # Core Font
-Open Source Font Project.
+## Open Source Font Project.
+
+![Lattin](https://fonts.1998.media/Core/Preview/Lattin.png)
+![Number](https://fonts.1998.media/Core/Preview/Number.png)
+![Special](https://fonts.1998.media/Core/Preview/Special.png)
 
 ## Download
 
