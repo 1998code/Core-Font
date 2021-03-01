@@ -22,6 +22,8 @@ https://fonts.1998.media/Core/Regular/CoreFont-Regular.ttf
 
 ## Web CDN
 ### Regular
+#### CSS
+https://fonts.1998.media/Core/Regular.css
 #### WOFF
 https://fonts.1998.media/Core/Regular/CoreFont-Regular.woff
 #### WOFF2
