@@ -10,7 +10,7 @@
 ## Download
 
 ### iOS / iPadOS
-Download Sample Code:[ ```/iOS```](https://github.com/1998code/Core-Font/tree/main/iOS)
+Download Sample Code: [```/iOS```](https://github.com/1998code/Core-Font/tree/main/iOS)
 
 <img width="1109" alt="Screenshot 2024-06-03 at 10 59 22 PM" src="https://github.com/1998code/Core-Font/assets/54872601/b79aa901-ee04-4a84-ba83-5e7c0c51495d">
 
